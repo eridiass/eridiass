@@ -1,6 +1,6 @@
 ### Olá, seja muito bem-vindo(a)! 👋
 
-- 💻 ESTUDANDO - Atualmente GIT + HTML + CSS 
+- 💻 ESTUDANDO - Atualmente GIT + HTML + CSS + ALGORITIMO
 - 💬 CONTATO - Entre em contato através do https://www.linkedin.com/in/erivaldo-dias/
 - 😄 Pronomes: Ele/Dele
 

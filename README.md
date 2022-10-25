@@ -1,6 +1,6 @@
 ### Olá, seja muito bem-vindo(a)! 👋
 
-- 💻 ESTUDANDO - Atualmente GIT + HTML + CSS + ALGORITIMO + LÓGICA 
+- 💻 ESTUDANDO - Atualmente GIT + HTML + CSS + ALGORITIMO + LÓGICA + JavaScript
 - 💬 CONTATO - Entre em contato através do https://www.linkedin.com/in/erivaldo-dias/
 - 😄 Pronomes: Ele/Dele
 
@@ -17,7 +17,10 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Eri-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="Eri-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-<img align="center" alt="Eri-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" alt="Eri-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="Eri-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="center" alt="Eri-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+                  
           
 </div>
 
